@@ -1,0 +1,11 @@
+{
+  "data": {
+    "type":"state-versions",
+    "attributes": {
+      "serial": %SERIAL%,
+      "md5": "%MD5%",
+      "lineage": "%LINEAGE%",
+      "state": "%STATE%"
+    }
+  }
+}
