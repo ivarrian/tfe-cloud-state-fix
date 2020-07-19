@@ -11,6 +11,7 @@ Requirements
 
 Usage
 ======
-
+```
 export TOKEN=<Terraform Enterprise/Cloud User API Token>
 ./fix_state.sh <STATE FILE> <WORKSPACE-ID>
+```
